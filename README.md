@@ -45,6 +45,10 @@ npm install react-elastic-carousel@0.11.5
 
 npm install --save styled-components@5.3.3
 
+## Documentação react-elastic-corousel
+
+https://sag1v.github.io/react-elastic-carousel/
+
 ## instalação do react-router-dom
 
 yarn add react-router-dom@5.3.0
